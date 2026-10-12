@@ -1,5 +1,6 @@
 # Infurrence
 
-**Boutique AppleOS craft, tactile utilities & developer tooling.**
+Official namespace and companion alias for **[Infurrence Labs](https://github.com/infurrence-labs)**.
 
-> 🐾 Infurrence is a dedicated software imprint of **[Casa de Gatos [347]](https://github.com/cdg347)**.
+For active repositories, developer utilities, and releases, please visit:  
+👉 **[github.com/infurrence-labs](https://github.com/infurrence-labs)**
